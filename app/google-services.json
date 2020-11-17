@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "22182261081",
+    "firebase_url": "https://m-aid-application.firebaseio.com",
+    "project_id": "m-aid-application",
+    "storage_bucket": "m-aid-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22182261081:android:209c649d8adbbeb10a5c48",
+        "android_client_info": {
+          "package_name": "com.mobilehealth.m_aidapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22182261081-lfennukm9o4jujs284m1id5mfp0tp6ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmVnI3Lnldo1CpyGuVAe6V61guphBS5vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22182261081-lfennukm9o4jujs284m1id5mfp0tp6ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
